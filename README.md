@@ -1,2 +1,1 @@
-# Hacktoberfest-Intro
-Submit your first Pull Request here!
+# Noah smells hi xx
